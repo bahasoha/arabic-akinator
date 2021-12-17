@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Windows87/programming-language-akinator/master/static/brain.png" width="40%">
 
-# I WILL DISCOVER YOUR PROGRAMMING LANGUAGE!
+# I WILL DISCOVER YOUR chracter!
 
 Website developed with Python, Flask, SKLearn and React. Based in my projet <a href="https://github.com/Windows87/superhero-akinator">SuperHero Akinator</a>.
  
